@@ -1,0 +1,18 @@
+{
+  "akshot": {
+    "category" : "player",
+    "sounds": [{
+      "name": "cfg:akshot",
+      "stream": false
+    }
+    ]
+  },
+  "akreload": {
+    "category" : "player",
+    "sounds": [{
+      "name": "cfg:akreload",
+      "stream": false
+    }
+    ]
+  }
+}
